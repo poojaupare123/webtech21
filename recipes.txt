@@ -3,3 +3,6 @@ welcome to my recipes channel
 kheer 
 chiken fry
 paneer
+
+pizza 
+burger
